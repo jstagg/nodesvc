@@ -1,2 +1,2 @@
 # nodesvc
- Node.js front-end to MondoDB back-end
+ Node.js front-end to MongoDB back-end
